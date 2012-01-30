@@ -3,14 +3,14 @@ body {
 	font-family: 'Rock Salt', cursive;
 	text-align:center;
 }
-a {
+#menu a {
 	color:black;
 	text-decoration:none;
 	display:block;
 	border-top   : 1px solid #DDD;
 	border-bottom: 1px solid #DDD;
 }
-a:hover {
+#menu a:hover {
 	border-top   : 1px solid black;
 	border-bottom: 1px solid black;
 }
